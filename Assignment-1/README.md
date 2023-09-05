@@ -20,6 +20,13 @@ Output:
 
 <img width="754" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/debdc256-38f0-418d-963b-06b42e72f470">
 
+<img width="754" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/8e91c3c8-9fd2-4ef7-907f-b2e26c6154f1">
+
+<img width="754" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/3401f52d-75e2-48fb-8932-0082ac477d71">
+
+<img width="754" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/879bbabf-6844-4d50-a9ed-3bbad757d3ab">
+
+<img width="754" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/bb16f86c-b587-42d0-8e1e-3560b15dc1d3">
 
 
 
