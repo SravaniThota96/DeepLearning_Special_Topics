@@ -46,3 +46,7 @@ Implemented two applications by providing prompts to GPT-Engineer.
 * Specify project requirements to gpt-engineer other it will assume its own
 
 * It can even execute the code it generated.
+
+
+<img width="488" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/b9ec4439-cf7e-4718-8c4b-7928d8b14c03">
+
