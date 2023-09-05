@@ -12,7 +12,8 @@
 <img width="753" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/90661f6b-9d2d-4d70-9e84-7dc1b2f803f0">
 
 
-Output:
+
+`Output`:
 
 <img width="753" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/310f6ca3-85de-4635-9b72-41a0232f9cb5">
 
