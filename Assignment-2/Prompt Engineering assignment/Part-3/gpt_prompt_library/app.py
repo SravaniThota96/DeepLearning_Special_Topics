@@ -20,11 +20,11 @@ texts = text_splitter.split_documents(data)
 
 # Initialize embeddings using OpenAI
 #removing api keys for security reasons
-OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', 'sk-')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY', '*****')
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
 # Initialize Pinecone
-PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '********')
+PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY', '*******')
 PINECONE_API_ENV = os.environ.get('PINECONE_API_ENV', 'gcp-starter')
 pinecone.init(api_key=PINECONE_API_KEY, environment=PINECONE_API_ENV)
 
