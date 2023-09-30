@@ -1,6 +1,6 @@
 ## **Transformers and finetuning with LLMs**
 
-**Part 1**: Nanogpt from scratch in pytorch: https://colab.research.google.com/drive/1UbEteAJMwmQkpPIYo_UJpwv9zdg_xi0t?usp=sharing
+**Part 1**: **Nanogpt from scratch in pytorch**: https://colab.research.google.com/drive/1UbEteAJMwmQkpPIYo_UJpwv9zdg_xi0t?usp=sharing
 
 Medium Article: https://medium.com/@sravani.thota/44e3f3007371
 
