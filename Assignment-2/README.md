@@ -4,6 +4,15 @@
 
 `Gradio app which will critique a given prompt for all the missing information. Put gpt4 as expert prompt engineer and ask it to critique and provide clues on how to improve and suggest changes for improvements so user can accept.`
 
+Colab: https://colab.research.google.com/drive/17JSAdvTgpFLuQeGb_zoRozbxG6azpz0q?usp=sharing
+
+Once user enters prompt, app will critic and generate better suggestions as below
+
+[![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/179320cf-3049-438e-b8e8-4ad6cd9e17f2)]
+
+![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/da638636-16a9-4f38-ab19-a5d8bceb53e9)
+
+
 ### **Part-2:**
 
 `Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need`
