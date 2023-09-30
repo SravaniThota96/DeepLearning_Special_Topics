@@ -6,7 +6,7 @@ Medium Article: https://medium.com/@sravani.thota/44e3f3007371
 
 `Nanogpt from scratch in TensoFlow`: https://colab.research.google.com/drive/1BVRjN_cbClj0JEQl0vBCcvdpdD8SoYIZ?usp=sharing
 
-`Nanogpt from scratch in JAX`: 
+`Nanogpt from scratch in JAX`: https://colab.research.google.com/drive/129zfHjW69UJOtgDsj7-32gxNwprL1Vbp?usp=sharing
 
 **Part 2**:  "Textbooks are all you need" case study with own data
 
