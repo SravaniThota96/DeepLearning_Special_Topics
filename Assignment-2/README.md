@@ -1,8 +1,14 @@
 ## **Prompt Engineering assignment**
 
+### **Part-1:**
+
+`Gradio app which will critique a given prompt for all the missing information. Put gpt4 as expert prompt engineer and ask it to critique and provide clues on how to improve and suggest changes for improvements so user can accept.`
+
 ### **Part-2:**
 
 `Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need`
+
+Colab: https://colab.research.google.com/drive/1l0TqeQI0q3ITxwZNQBdOsRCDX3m1d2Wf?usp=sharing
 
 customer  will be able to test end2end the prompt with samples. Then you will have refinement and iteration.
 
