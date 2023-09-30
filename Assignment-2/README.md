@@ -31,7 +31,6 @@ App will ask users to enter specific details as shown in the screenshot
 
 ![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/26f5245d-ea60-482b-8ff8-ee2ff557ae33)
 
-![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/f1f35a2b-fca2-472b-96e9-0ac20ba97dfd)
 
 Final Response after mentioning specifications:
 
