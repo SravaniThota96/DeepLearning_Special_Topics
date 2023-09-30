@@ -4,6 +4,8 @@
 
 `Gradio app which will critique a given prompt for all the missing information. Put gpt4 as expert prompt engineer and ask it to critique and provide clues on how to improve and suggest changes for improvements so user can accept.`
 
+Medium article: https://medium.com/@sravani.thota/best-practices-for-writing-prompts-1a79aa9a4a34
+
 Colab: https://colab.research.google.com/drive/17JSAdvTgpFLuQeGb_zoRozbxG6azpz0q?usp=sharing
 
 Once user enters prompt, app will critic and generate better suggestions as below
