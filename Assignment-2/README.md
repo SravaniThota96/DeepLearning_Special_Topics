@@ -1,2 +1,23 @@
-# DeepLearning_Special_Topics
+
+## **Prompt Engineering assignment**
+
+### **Part-3:**
+
+`Web app for prompt library with prompt search using pinecone langchain library - users can contribute the prompts and search for prompts.`
+
+Landing Page:
+
+<img width="820" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/ca06a5f1-a97a-4437-ab07-103af18bd552">
+
+Search for Prompts in Prompt Library : I have given "Explain in detail about Data Science" this prompt
+
+<img width="820" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/e3801354-dc8b-49bf-8d63-42e8e6e29bff">
+
+Suggested Prompt:
+
+<img width="820" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/feecc950-5c13-491b-b407-fe8641e98efb">
+
+<img width="820" alt="image" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/e0fffa51-feaa-4044-a344-b2ffe525ef25">
+
+
 
