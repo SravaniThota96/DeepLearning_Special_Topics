@@ -1,5 +1,24 @@
 ## **Prompt Engineering assignment**
 
+### **Part-2:**
+
+Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need
+
+customer  will be able to test end2end the prompt with samples. Then you will have refinement and iteration.
+
+![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/4eb5af8f-13aa-4a09-b509-10f3b9c0f794)
+
+App will ask users to enter specific details as shown in the screenshot
+
+![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/26f5245d-ea60-482b-8ff8-ee2ff557ae33)
+
+![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/f1f35a2b-fca2-472b-96e9-0ac20ba97dfd)
+
+Final Response after mentioning specifications:
+
+![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/bfffbd23-7e29-43d6-a4ae-065575f19faf)
+
+
 ### **Part-3:**
 
 `Web app for prompt library with prompt search using pinecone langchain library - users can contribute the prompts and search for prompts.`
