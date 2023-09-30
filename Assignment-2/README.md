@@ -2,7 +2,7 @@
 
 ### **Part-2:**
 
-Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need
+`Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need`
 
 customer  will be able to test end2end the prompt with samples. Then you will have refinement and iteration.
 
