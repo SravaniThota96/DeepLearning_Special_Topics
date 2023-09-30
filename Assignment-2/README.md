@@ -1,3 +1,7 @@
+## **Transformers and finetuning with LLMs**
+
+Nanogpt from scratch in pytorch: 'https://colab.research.google.com/drive/1UbEteAJMwmQkpPIYo_UJpwv9zdg_xi0t?usp=sharing'
+
 
 ## **Prompt Engineering assignment**
 
