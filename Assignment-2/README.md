@@ -14,7 +14,8 @@ Once user enters prompt, app will critic and generate better suggestions as belo
 
 ![image](https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/da638636-16a9-4f38-ab19-a5d8bceb53e9)
 
-
+* Applied best practices of prompt engineering on a dataset and uploaded the chat transcript to part-1.
+* 
 ### **Part-2:**
 
 `Web app - will ask very detailed inquiry of the user requirements in iterative back and forth fashion until you have all the information you need`
