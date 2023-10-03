@@ -62,6 +62,8 @@ Suggested Prompt:
 
 **Nanogpt from scratch in pytorch**: https://colab.research.google.com/drive/1UbEteAJMwmQkpPIYo_UJpwv9zdg_xi0t?usp=sharing
 
+`Demo Link` : https://drive.google.com/file/d/1oBJ77PY1U_3hDzNpJlDlBf-hVeYXcg3C/view?usp=sharing
+
 **Medium Article**: https://medium.com/@sravani.thota/44e3f3007371
 
 **Nanogpt from scratch in TensoFlow**: https://colab.research.google.com/drive/1BVRjN_cbClj0JEQl0vBCcvdpdD8SoYIZ?usp=sharing
