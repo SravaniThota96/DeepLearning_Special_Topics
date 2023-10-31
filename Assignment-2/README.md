@@ -6,6 +6,10 @@
 
 Medium article: https://medium.com/@sravani.thota/best-practices-for-writing-prompts-1a79aa9a4a34
 
+`Demo of Propmt critic and Refiner`: https://drive.google.com/file/d/1d3NllfV5yfcVQpFRV-4qFDDiknC0RnkY/view?usp=sharing
+
+`Presentation of the project`: https://docs.google.com/presentation/d/1Zux1pa4zPdpPjsSfINycNsvL2LNckoFpjMf2qhcUBeo/edit?usp=sharing
+
 Colab: https://colab.research.google.com/drive/17JSAdvTgpFLuQeGb_zoRozbxG6azpz0q?usp=sharing
 
 Once user enters prompt, app will critic and generate better suggestions as below
