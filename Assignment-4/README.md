@@ -35,7 +35,7 @@ Colab: https://colab.research.google.com/drive/1ZzjGenLZyCfGafFFRhokqiea8VUMxi95
 
 `Implemented OPENAI examples using PALM2 API key`
 
-Colab: 
+Colab: https://colab.research.google.com/drive/1LvvwKNCE2FuipPVa-PfnBo3iuqf9xviv?usp=sharing
 
 ### **Part-E:**
 
