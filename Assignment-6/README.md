@@ -1,59 +1,26 @@
-## **LLM Finetuning**
+# Semantic kernel and LLMUI
 
-### **Part-A:**
+`PartB:`
 
-`Simple Agents assignment - Build a very simple python agent`
+### Build a chat copilot with semantic kernel framework end2end with python using latest api (ideally assistant API)
 
+* Chat Copilot provides a reference application for building a chat experience using Semantic Kernel with an AI agent.
 
-Colab: https://colab.research.google.com/drive/1YumzQJb96KCs0byh7fUEPDE0wufTXsiW?usp=sharing
+Landing Page of Chat Copilot Application:
 
+<img width="1434" alt="Screen Shot 2023-11-24 at 8 52 35 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/346d0d61-200f-4d5e-9d99-0ca1ec8a6cbc">
 
-### **Part-B:**
+* Customized Chat Copilot choosing a planner and changing System Prompt:
 
-`Implemented auto agent`
+The system prompt is designed to create an interactive storytelling experience where the AI, named 'Chronicle,' collaborates with users to build a story. It emphasizes narrative development, character creation, and genre exploration, all while adhering to the constraints of the AI's knowledge and capabilities.
 
+<img width="1434" alt="Screen Shot 2023-11-24 at 10 24 51 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/7559d20d-0af5-4c83-8f37-8b3a9da59b28">
 
-Colab: https://colab.research.google.com/drive/1iffM5e99PJu9HfgAx1ZvK7cfkiCBNcug?usp=sharing
+<img width="1434" alt="Screen Shot 2023-11-24 at 10 28 45 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/9216f0fd-c865-46cb-9c23-579a84a53318">
 
-
-### **Part-C:**
-
-`Finetune LLM for your custom task, Use Lora to finetune the model`
-
-Colab: https://colab.research.google.com/drive/1QSiZc91UcKT3l_QVp-YBKC314uu1RXpn?usp=sharing
+<img width="1434" alt="Screen Shot 2023-11-24 at 10 31 58 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/23b41918-bcb9-4d37-b33d-27ef13b71cc1">
 
 
-### **Part-D:**
-
-`Used QLora to finetune a model by generating custom data set. `
-
-Colab: https://colab.research.google.com/drive/1Xq8luNk8PN_HYGg35j47chyJRuAuywYe?usp=sharing
-
-### **Part-E:**
-
-`Use mistral llm with RAG and demonstrated a production usecase`
-
-Colab: https://colab.research.google.com/drive/1AXsXjly-0-e7SxWVX8tKk0ay5trhk1eO?usp=sharing
-
-### **Part-F:**
-
-`Integrated mistral model as backend with langchain`
-
-Colab: https://colab.research.google.com/drive/1rAwbLpLL4rDhG7umikGJSUC6O7n0IKtn?usp=sharing
-
-### **Part-G:**
-
-`Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end.`
-
-Colab: https://colab.research.google.com/drive/1FCON2KBwmjlYC0zbRs2lDUsZgmRdgzxX?usp=sharing
-
-Colab: https://colab.research.google.com/drive/1xZznKIiOTXA-5ErDAJ04K_rSBC3WbbpZ?usp=sharing
-
-### **Part-H:**
-
-`Use LLM studio and LLM Data Studio to demonstrate data set generation, fine tuning, deployment to huggingface and inference (Gradio)`
-
-Colab: https://colab.research.google.com/drive/1RtZPzXU8gCiEJ6jM1WjSgAoKSgaeTaEM?usp=sharing
 
 
 
