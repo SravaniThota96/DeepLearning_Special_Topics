@@ -1,5 +1,7 @@
 # End2End generative ai based app using Vercel
 
+Built an end2end generative ai based app using Vercel 
+
 <img width="604" alt="Screen Shot 2023-11-27 at 8 57 23 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/526aa2e7-cad7-4690-b9c6-ef433590c526">
 
 
@@ -11,7 +13,7 @@
 
 * Chat Copilot provides a reference application for building a chat experience using Semantic Kernel with an AI agent.
 
-Landing Page of Chat Copilot Application:
+Landing Page of the Chat Copilot Application:
 
 <img width="1434" alt="Screen Shot 2023-11-24 at 8 52 35 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/346d0d61-200f-4d5e-9d99-0ca1ec8a6cbc">
 
