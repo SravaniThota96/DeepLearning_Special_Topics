@@ -2,6 +2,8 @@
 
 `Part-A:`
 
+**Medium Article**: https://medium.com/@sravani.thota/end2end-generative-ai-based-app-using-vercel-a25510f7b152
+
 ### End2End generative AI based app using Vercel
 
 * Built an end2end generative AI based app using Vercel 
