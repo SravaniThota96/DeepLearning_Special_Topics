@@ -1,13 +1,14 @@
-# End2End generative ai based app using Vercel
+# Semantic kernel and LLMUI
 
-Built an end2end generative ai based app using Vercel 
+`Part-A:`
+
+### End2End generative AI based app using Vercel
+
+* Built an end2end generative AI based app using Vercel 
 
 <img width="604" alt="Screen Shot 2023-11-27 at 8 57 23 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/526aa2e7-cad7-4690-b9c6-ef433590c526">
 
-
-# Semantic kernel and LLMUI
-
-`PartB:`
+`Part-B:`
 
 ### Build a chat copilot with semantic kernel framework end2end with python using latest api (ideally assistant API)
 
