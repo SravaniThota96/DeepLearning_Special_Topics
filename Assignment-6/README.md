@@ -1,3 +1,8 @@
+# End2End generative ai based app using Vercel
+
+<img width="604" alt="Screen Shot 2023-11-27 at 8 57 23 PM" src="https://github.com/SravaniThota96/DeepLearning_Special_Topics/assets/111466561/526aa2e7-cad7-4690-b9c6-ef433590c526">
+
+
 # Semantic kernel and LLMUI
 
 `PartB:`
