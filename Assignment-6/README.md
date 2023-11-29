@@ -12,6 +12,8 @@
 
 `Part-B:`
 
+**Medium Article:** https://medium.com/@sravani.thota/implementing-an-interactive-storytelling-experience-with-chat-copilot-and-semantic-kernel-ccd2070f60ac 
+
 ### Build a chat copilot with semantic kernel framework end2end with python using latest api (ideally assistant API)
 
 * Chat Copilot provides a reference application for building a chat experience using Semantic Kernel with an AI agent.
