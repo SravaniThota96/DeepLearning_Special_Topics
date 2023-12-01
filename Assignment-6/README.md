@@ -1,10 +1,10 @@
-# Semantic kernel and LLMUI
+# Semantic kernel and LLM-UI
 
 `Part-A:`
 
 **Medium Article**: https://medium.com/@sravani.thota/end2end-generative-ai-based-app-using-vercel-a25510f7b152
 
-**Video Article:** https://drive.google.com/file/d/1Jner7tj-21MSiTaDauQkpXhMd7CMolo2/view?usp=drive_link
+**Demo Article for both Semantic Kernel and LLM UI:** https://drive.google.com/file/d/1Jner7tj-21MSiTaDauQkpXhMd7CMolo2/view?usp=drive_link
 
 ### End2End generative AI based app using Vercel
 
